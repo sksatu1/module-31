@@ -23,4 +23,4 @@ console.log(productNames);
 console.log(productPrice);
 
 // products.map(product => console.log(product));
-products.forEach(product => console.log(product));
+products.forEach(product => console.log(product)); 
